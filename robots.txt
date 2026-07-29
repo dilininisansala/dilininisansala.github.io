@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://dilininisansala.github.io/sitemap.xml
+         
